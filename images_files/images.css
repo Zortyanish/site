@@ -1,0 +1,36 @@
+body{
+	background-color: #000080;
+	background-image: url(https://i.gifer.com/origin/55/55b8655f6eb92e0827747badf5bea873_w200.gif);
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p{
+	font-size: 100px;
+	background-image:url(https://e0.pxfuel.com/wallpapers/809/678/desktop-wallpaper-purple-space-purple-planet.jpg) ;
+background-size: cover;
+color: white;
+text-align: center;  
+}
+div{
+	height: 500px;
+	width: 500px;
+	margin: 20px;
+}
+#d1{
+	background-image: url(https://img.freepik.com/premium-zdjecie/wszechswiat-jest-planeta-z-galaktyka-a-wszechswiat-nazywa-sie-galaktyka_818261-534.jpg);
+	background-size: cover;
+}
+#d2{
+	background-image: url(https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif);
+	border: solid 30px;
+	background-size: cover;
+	border-image: Linear-gradient(black, darkblue) 30;
+}
+#img2{
+	display: block;
+	margin: auto;
+	width: 50%;
+	border-radius: 50%;
+	box-shadow: ;
+}
